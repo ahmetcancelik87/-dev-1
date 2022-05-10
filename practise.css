@@ -1,0 +1,61 @@
+.baslık {
+  background-color: red;
+  color: white;
+  text-align: center;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: %;
+}
+
+.Menü {
+  background-color: blue;
+  color: black;
+  text-align: center;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0%;
+  
+}
+
+.İcerik_main {
+  background-color: rgba(219, 213, 213, 0.966);
+  color: black;
+  text-align: center;
+  width: 80%;
+  height: 300px;
+  float: right;
+  padding-top: 100px;
+  margin: 0%;
+ 
+  
+}
+
+.yön {
+  background-color: rgb(255, 255, 0);
+  color: black;
+  text-align: center;
+  width: 20%;
+  height: 300px;
+  font-size: 40px;
+  padding-top: 100px;
+  margin: 0%;
+}
+
+.clearfix {
+  clear: both;
+  margin-top: 0%;
+}
+.son {
+  background-color: rgba(58, 45, 45, 0.938);
+  height: 80px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+  
+}
